@@ -1,2 +1,7 @@
-# Intro-to-AI
-Introduction to Artificial Intelligence projects and certificate
+
+# Introduction to Artificial Intelligence
+
+This repository contains my AI learning materials and certificate.
+
+## Certificate
+[View Certificate](Intro-to-AI.pdf)
